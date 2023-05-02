@@ -22,7 +22,7 @@ require 'inc/functions.php';
 		?>
 		<h2>Error: missing inc/conf.php</h2>
 		<p>
-			EncryptChat can't read the configuration file.<br />
+			EncryptChat APP can't read the configuration file.<br />
 			Copy <strong>inc/conf.template.php</strong> into <strong>inc/conf.php</strong>, and don't forget to <strong>customize it</strong>.
 		</p>
 	<?php
