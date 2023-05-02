@@ -1,1 +1,120 @@
-﻿
+﻿2023-04-22 13:28:41 -> SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/action.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-22 13:29:26 -> SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-22 13:34:09 -> SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/action.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-22 13:34:21 -> SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/action.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:06:52 -> SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/action.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:06:58 -> SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:11:25 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:11:28 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:11:29 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:11:32 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:11:33 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:11:49 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:11:54 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', '')
+#1 /Applications/MAMP/htdocs/encryptchat/action.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:30:57 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', 'root')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:30:59 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', 'root')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:31:09 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', 'root')
+#1 /Applications/MAMP/htdocs/encryptchat/action.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:31:43 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', 'root')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:31:45 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', 'root')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:31:48 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', 'root')
+#1 /Applications/MAMP/htdocs/encryptchat/stats.php(8): DbManager->__construct()
+#2 {main}
+
+
+2023-04-24 23:31:52 -> SQLSTATE[HY000] [2002] Connection refused
+#0 /Applications/MAMP/htdocs/encryptchat/inc/dbmanager.php(18): PDO->__construct('mysql:dbname=my...', 'root', 'root')
+#1 /Applications/MAMP/htdocs/encryptchat/action.php(8): DbManager->__construct()
+#2 {main}
+
+
