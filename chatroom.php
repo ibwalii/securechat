@@ -22,7 +22,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>MyCryptoChat</title>
+	<title>EncryptChat</title>
 	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<meta name="viewport" content="width=device-width" />
 	<link href="style.css" rel="stylesheet" />
@@ -32,7 +32,7 @@
 		<div class="content-wrapper">
 			<nav>
 				<ul>
-					<li id="site-title"><a href="index.php">MyCryptoChat</a></li>
+					<li id="site-title"><a href="index.php">EncryptChat</a></li>
 					<div id="site-links">
 						<li><a href="stats.php">Stats</a></li>
 						<li><a href="about.php">About</a></li>
@@ -85,7 +85,7 @@
 		</section>
 	</div>
 	<footer>
-		<p>&copy; 2018 MyCryptoChat <?php echo MYCRYPTOCHAT_VERSION; ?> by <a href="https://github.com/Undone/mycryptochat">Undone</a></p>
+		<p>&copy; 2022 EncryptChat <?php echo EncryptCHAT_VERSION; ?></p>
 	</footer>
 	<script type="text/javascript" src="scripts/sjcl.js"></script>
 	<script type="text/javascript" src="scripts/myCryptoChat.js"></script>
@@ -170,7 +170,7 @@
 			if (isRefreshTitle)
 			{
 				clearInterval(refreshTitleInterval);
-				document.title = "MyCryptoChat";
+				document.title = "EncryptChat";
 				isRefreshTitle = false;
 			}
 		}
