@@ -85,7 +85,7 @@
 		</section>
 	</div>
 	<footer>
-		<p>&copy; 2022 EncryptChat <?php echo EncryptCHAT_VERSION; ?></p>
+		<p>&copy; 2022 EncryptChat </p>
 	</footer>
 	<script type="text/javascript" src="scripts/sjcl.js"></script>
 	<script type="text/javascript" src="scripts/myCryptoChat.js"></script>
